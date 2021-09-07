@@ -1,3 +1,2 @@
 # pp12021g9_a1-g_9_ell
-pp12021g9_a1-g_9_ell created by GitHub Classroom
-Primer Practico PP! 2021
+Primer Practico PP1 2021
