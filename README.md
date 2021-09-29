@@ -27,4 +27,13 @@ Otras fuente de datos puede obtenerse a partir de https://pypi.org/project/inves
 ## Objetivo 2
 Una vez tomados los datos de la bolsa, deberán identificar las 2 cotizaciones de mayor ganancia y de mayor perdida.
 
+## Objetivo 3
+Hacer una comparativa de precios de cotización entre los dos orígenes de datos.
+Usar como inicio el código en los Jupyter provistos.
+
+## Objetivo 4
+Hacer un reporte de resultados.
+
+
+
 
