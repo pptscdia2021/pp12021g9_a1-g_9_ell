@@ -1,8 +1,9 @@
 # pp12021g9_a1-g_9_ell
 ## Primer Practico PP1 2021 - Sprint 1
 # Integrantes:
-Maia Roszezuk
+*Maia Roszezuk
 Edgar Galleguillo
+Leandro Acosta
 
 
 
