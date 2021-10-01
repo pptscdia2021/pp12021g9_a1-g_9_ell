@@ -46,14 +46,14 @@ for fila in tabla.find_all("tr"):
     nroFila=nroFila+1
 
 # Ya sólo nos queda guardar los datos para usar en el futuro.
-    with open('acciones_bma.csv', 'a') as csv_file:
+    with open('acciones_bma_01102021.csv', 'a') as csv_file:
         writer = csv.writer(csv_file)
         writer.writerow([name, price , var , maxima , minima ,datetime.now()])
         
 # Pasamos el csv a un dataframe de Pandas
-df = pd.read_csv('acciones_bma.csv')
-df.columns = ["Nombre", "Precio", "Var%", "Max.", "Min.", "Fecha"]
-df.to_csv('acciones_bma.csv')
+df = pd.read_csv('acciones_bma_01102021.csv')
+df.columns = ["Nombre", "Precio", "Var%", "Max", "Min", "Fecha"]
+df.to_csv('acciones_bma_01102021.csv')
 
 # Mostramos las diez primeras lineas
 df.head(10)
