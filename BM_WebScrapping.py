@@ -52,7 +52,7 @@ for fila in tabla.find_all("tr"):
         
 # Pasamos el csv a un dataframe de Pandas
 df = pd.read_csv('acciones_bma.csv')
-df.columns = ["Nombre", "Precio", "Var.", "Max.", "Min.", "Fecha"]
+df.columns = ["Nombre", "Precio", "Var%", "Max.", "Min.", "Fecha"]
 df.to_csv('acciones_bma.csv')
 
 # Mostramos las diez primeras lineas
