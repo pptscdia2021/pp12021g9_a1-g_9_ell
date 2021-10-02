@@ -1,11 +1,13 @@
-# pp12021g9_a1-g_9_ell
-## Primer Practico PP1 2021 - Sprint 1
+# Práctica Profesionalizante I - TSCDIA - 2021
+## Grupo 9 - Aula 1 - pp12021g9_a1-g_9_ell
+
 # Integrantes:
 * Maia Roszezuk,
 * Edgar Galleguillo,
 * Leandro Acosta
+* Maria Carolina Luque
 
-
+# Trabajo Practico 1 - Sprint 1
 
 # Trabajo Practico 2 - Sprint 2
 
